@@ -22,7 +22,7 @@ Para fins de organização do grupo, o sistema foi dividido em blocos. Eu fui o 
 
 ## 🛠️ Como rodar o projeto
 
-1. Certifique-se de ter um compilador C (como o `gcc`) instalado no seu computador.
+1. Assegure-se de ter um compilador C (como o `gcc`) instalado no seu computador.
 2. Baixe o código fonte final do projeto (`main.c`).
 3. Abra o terminal na pasta do arquivo e compile o código:
 ```bash
